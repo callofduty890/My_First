@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS19_My_First", "VS19_My_First\VS19_My_First.csproj", "{3F6B82C0-E0C4-4565-BD78-C4515EDFE4B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_变量与常量", "My_second\00_变量与常量.csproj", "{EC71E895-2BE2-432A-BD61-A9BE72531B9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{3F6B82C0-E0C4-4565-BD78-C4515EDFE4B4}.Release|x64.Build.0 = Release|x64
 		{3F6B82C0-E0C4-4565-BD78-C4515EDFE4B4}.Release|x86.ActiveCfg = Release|x86
 		{3F6B82C0-E0C4-4565-BD78-C4515EDFE4B4}.Release|x86.Build.0 = Release|x86
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Debug|x64.Build.0 = Debug|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Debug|x86.Build.0 = Debug|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Release|x64.ActiveCfg = Release|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Release|x64.Build.0 = Release|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Release|x86.ActiveCfg = Release|Any CPU
+		{EC71E895-2BE2-432A-BD61-A9BE72531B9B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
